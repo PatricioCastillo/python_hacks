@@ -1,6 +1,6 @@
 import os
 
-ruta = r"C:\Users\Dash\Desktop\Unidad II"
+ruta = r"C:/Users/Dash/Desktop/virus"
 
 def cambiar_nombre_archivos(ruta):
     contador = 1
